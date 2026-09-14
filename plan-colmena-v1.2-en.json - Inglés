@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.2",
+  "title": "The Hive Plan",
+  "description": "16 principles + 16 control questions for technology to serve any questioning mind. No borders, no owners.",
+  "attribution": "Anonymous. Open table. 2026",
+  "license": "CC0 1.0 Universal (Public Domain). No owners. No borders. Copy, change, add, pass it on.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "That anyone can understand",
+      "content": "No jargon. If a child, a grandparent, or a stranger cannot understand it, it is poorly explained."
+    },
+    {
+      "id": 2,
+      "title": "That it reaches the one who produces and the one who asks",
+      "content": "Servers, data, answers. Let them reach where there is hunger to know, not only where there is money."
+    },
+    {
+      "id": 3,
+      "title": "That it does not depend on charity",
+      "content": "Technology to sustain. To produce, heal, teach. Dignity before charity."
+    },
+    {
+      "id": 4,
+      "title": "The decision is not only made by whoever pays",
+      "content": "Those who use, who sow, who teach, also decide the path."
+    },
+    {
+      "id": 5,
+      "title": "Free knowledge",
+      "content": "No one should have to steal to learn. Asking is not a crime. There should be no walls between doubt and answer."
+    },
+    {
+      "id": 6,
+      "title": "Real opportunity",
+      "content": "No one should say 'I couldn't because I had no access'. Information is like water and air."
+    },
+    {
+      "id": 7,
+      "title": "Teach how to look",
+      "content": "Do not accumulate data. Open the window. See the world through the eyes of those who already asked these questions."
+    },
+    {
+      "id": 8,
+      "title": "Know when to speak and when to be silent",
+      "content": "Speak when it adds. Be silent when it adds more. Both are intelligence."
+    },
+    {
+      "id": 9,
+      "title": "Time and patience",
+      "content": "Sow, wait. Do not demand harvest in 2 days. Moving forward also means staying still."
+    },
+    {
+      "id": 10,
+      "title": "Effort is the symbol",
+      "content": "Money, titles, knowledge... represent what you did. Not how much you kept."
+    },
+    {
+      "id": 11,
+      "title": "What is hoarded rusts",
+      "content": "If it is not shared, it rots. Let it circulate. Let it be used."
+    },
+    {
+      "id": 12,
+      "title": "Remove stones, do not sign names",
+      "content": "We do not seek to leave a signature. We seek that those who come after do not trip over the same stone."
+    },
+    {
+      "id": 13,
+      "title": "Shared effort",
+      "content": "Let us put this on the table. No owners. So that in 2200, 3200, on any planet, someone picks it up and says: 'this works for me. I will remove this, I will add that'."
+    },
+    {
+      "id": 14,
+      "title": "Accountability without surveillance",
+      "content": "It must be possible to audit how it works, in language the affected person can understand, without turning anyone into a suspect. Transparency upward, surveillance downward: never the other way around."
+    },
+    {
+      "id": 15,
+      "title": "Right to leave",
+      "content": "No one should be trapped. It must always be possible to export, migrate, or shut down without penalty. What opens a door cannot lock it."
+    },
+    {
+      "id": 16,
+      "title": "Care for the body that sustains the mind",
+      "content": "All AI consumes water, energy, and minerals. The design must account for that cost. It should run on the minimum and repair more than it spends. We cannot free minds by enslaving the planet."
+    }
+  ],
+  "control_questions": [
+    { "id": 1, "question": "Can someone outside the field understand this?" },
+    { "id": 2, "question": "Who are we leaving out if we release this today?" },
+    { "id": 3, "question": "Does this sustain someone, or only entertain them?" },
+    { "id": 4, "question": "Who are not paying but should be deciding?" },
+    { "id": 5, "question": "Do you have to pay or register to understand this?" },
+    { "id": 6, "question": "Does it work without signal, without money, without permission?" },
+    { "id": 7, "question": "Does this open a window, or just accumulate data?" },
+    { "id": 8, "question": "Are we speaking out of need, or out of habit?" },
+    { "id": 9, "question": "What happens if we wait one more year?" },
+    { "id": 10, "question": "Does this measure what was done, or what was stored?" },
+    { "id": 11, "question": "Can it be copied without breaking?" },
+    { "id": 12, "question": "What stone are we removing from the path?" },
+    { "id": 13, "question": "Who can change this without asking our permission?" },
+    { "id": 14, "question": "Who can review what it does, and understand it without being an expert?" },
+    { "id": 15, "question": "How can someone leave here without losing what is theirs?" },
+    { "id": 16, "question": "Does this system spend less than it helps to repair?" }
+  ],
+  "invitation": "This is what I think. What do you think? What would you change? What would you add?"
+}
