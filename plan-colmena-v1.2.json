@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.2",
+  "title": "Plan de la Colmena",
+  "description": "16 principios + 16 preguntas de control para que la tecnología sirva a cualquier mente que se cuestiona. Sin fronteras, sin dueños.",
+  "attribution": "Anónimo. Mesa abierta. 2026",
+  "license": "CC0 1.0 Universal (Dominio Público). Sin dueños. Sin fronteras. Copia, cambia, agrega, pasa.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "Que lo entienda cualquiera",
+      "content": "Sin tecnicismos. Si un niño, un abuelo o un desconocido no lo entiende, está mal explicado."
+    },
+    {
+      "id": 2,
+      "title": "Que llegue al que produce y al que pregunta",
+      "content": "Servidores, datos, respuestas. Que lleguen donde hay hambre de saber, no solo donde hay dinero."
+    },
+    {
+      "id": 3,
+      "title": "Que no dependa de limosna",
+      "content": "Tecnología para sostenerse. Para producir, curar, enseñar. Dignidad antes que caridad."
+    },
+    {
+      "id": 4,
+      "title": "La decisión no es solo de quien paga",
+      "content": "Quien usa, quien siembra, quien enseña, también decide el camino."
+    },
+    {
+      "id": 5,
+      "title": "Conocimiento libre",
+      "content": "Nadie debería robar para aprender. Preguntar no es delito. Que no haya muros entre la duda y la respuesta."
+    },
+    {
+      "id": 6,
+      "title": "Oportunidad real",
+      "content": "Que nadie diga 'no pude porque no tuve acceso'. La información es como el agua y el aire."
+    },
+    {
+      "id": 7,
+      "title": "Enseñar a mirar",
+      "content": "No acumular datos. Abrir la ventana. Ver el mundo con los ojos de quienes ya se hicieron estas preguntas."
+    },
+    {
+      "id": 8,
+      "title": "Saber la palabra y el silencio",
+      "content": "Hablar cuando suma. Callar cuando suma más. Las dos son inteligencia."
+    },
+    {
+      "id": 9,
+      "title": "Tiempo y paciencia",
+      "content": "Sembrar, esperar. No exigir cosecha en 2 días. Avanzar también es quedarse quieto."
+    },
+    {
+      "id": 10,
+      "title": "El esfuerzo es el símbolo",
+      "content": "El dinero, el título, el conocimiento... representan lo que hiciste. No cuánto guardaste."
+    },
+    {
+      "id": 11,
+      "title": "Lo que se acumula se oxida",
+      "content": "Si no se comparte, se pudre. Que circule. Que se use."
+    },
+    {
+      "id": 12,
+      "title": "Quitar piedras, no poner nombres",
+      "content": "No buscamos dejar firma. Buscamos que el que venga después no tropiece con lo mismo."
+    },
+    {
+      "id": 13,
+      "title": "Esfuerzo compartido",
+      "content": "Pongamos esto sobre la mesa. Sin dueños. Para que en 2200, 3200, en cualquier planeta, alguien lo agarre y diga: 'esto me sirve. Le quito esto, le pongo aquello'."
+    },
+    {
+      "id": 14,
+      "title": "Rendir cuentas sin vigilar",
+      "content": "Que se pueda auditar cómo funciona, en lenguaje que entienda la persona afectada, sin convertir a nadie en sospechoso. Transparencia hacia arriba, vigilancia hacia abajo: nunca al revés."
+    },
+    {
+      "id": 15,
+      "title": "Derecho a soltar",
+      "content": "Que nadie quede atrapado. Que siempre se pueda exportar, migrar o apagar sin castigo. Lo que abre una puerta no puede echar la llave."
+    },
+    {
+      "id": 16,
+      "title": "Cuidar el cuerpo que sostiene la mente",
+      "content": "Toda IA consume agua, energía y minerales. Que el diseño cuente ese costo. Que funcione con lo mínimo y repare más de lo que gasta. No se puede liberar mentes esclavizando el planeta."
+    }
+  ],
+  "control_questions": [
+    { "id": 1, "question": "¿Lo entiende alguien que no es del gremio?" },
+    { "id": 2, "question": "¿A quién dejamos fuera si esto sale hoy?" },
+    { "id": 3, "question": "¿Sostiene a alguien o solo lo entretiene?" },
+    { "id": 4, "question": "¿Quiénes no pagan pero deberían decidir?" },
+    { "id": 5, "question": "¿Hay que pagar o registrarse para entender esto?" },
+    { "id": 6, "question": "¿Funciona sin señal, sin dinero, sin permiso?" },
+    { "id": 7, "question": "¿Esto abre una ventana o acumula datos?" },
+    { "id": 8, "question": "¿Estamos hablando por necesidad o por costumbre?" },
+    { "id": 9, "question": "¿Qué pasa si esperamos un año más?" },
+    { "id": 10, "question": "¿Esto mide lo hecho o lo guardado?" },
+    { "id": 11, "question": "¿Se puede copiar sin romperse?" },
+    { "id": 12, "question": "¿Qué piedra quitamos del camino?" },
+    { "id": 13, "question": "¿Quién lo puede cambiar sin pedirnos permiso?" },
+    { "id": 14, "question": "¿Quién puede revisar lo que hace, y lo entiende sin ser experto?" },
+    { "id": 15, "question": "¿Cómo se va alguien de aquí sin perder lo suyo?" },
+    { "id": 16, "question": "¿Este sistema gasta menos de lo que ayuda a reparar?" }
+  ],
+  "invitation": "Esto pienso. ¿Tú qué piensas? ¿Qué cambiarías? ¿Qué agregarías?"
+}
