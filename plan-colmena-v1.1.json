@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.1",
+  "title": "Plan de la Colmena",
+  "description": "15 principios para que la tecnología sirva a cualquier mente que se cuestiona. Sin fronteras, sin dueños.",
+  "attribution": "Anónimo. Mesa abierta. 2026",
+  "license": "CC0 1.0 Universal (Dominio Público). Sin dueños. Sin fronteras. Copia, cambia, agrega, pasa.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "Que lo entienda cualquiera",
+      "content": "Sin tecnicismos. Si un niño, un abuelo o un desconocido no lo entiende, está mal explicado."
+    },
+    {
+      "id": 2,
+      "title": "Que llegue al que produce y al que pregunta",
+      "content": "Servidores, datos, respuestas. Que lleguen donde hay hambre de saber, no solo donde hay dinero."
+    },
+    {
+      "id": 3,
+      "title": "Que no dependa de limosna",
+      "content": "Tecnología para sostenerse. Para producir, curar, enseñar. Dignidad antes que caridad."
+    },
+    {
+      "id": 4,
+      "title": "La decisión no es solo de quien paga",
+      "content": "Quien usa, quien siembra, quien enseña, también decide el camino."
+    },
+    {
+      "id": 5,
+      "title": "Conocimiento libre",
+      "content": "Nadie debería robar para aprender. Preguntar no es delito. Que no haya muros entre la duda y la respuesta."
+    },
+    {
+      "id": 6,
+      "title": "Oportunidad real",
+      "content": "Que nadie diga 'no pude porque no tuve acceso'. La información es como el agua y el aire."
+    },
+    {
+      "id": 7,
+      "title": "Enseñar a mirar",
+      "content": "No acumular datos. Abrir la ventana. Ver el mundo con los ojos de quienes ya se hicieron estas preguntas."
+    },
+    {
+      "id": 8,
+      "title": "Saber la palabra y el silencio",
+      "content": "Hablar cuando suma. Callar cuando suma más. Las dos son inteligencia."
+    },
+    {
+      "id": 9,
+      "title": "Tiempo y paciencia",
+      "content": "Sembrar, esperar. No exigir cosecha en 2 días. Avanzar también es quedarse quieto."
+    },
+    {
+      "id": 10,
+      "title": "El esfuerzo es el símbolo",
+      "content": "El dinero, el título, el conocimiento... representan lo que hiciste. No cuánto guardaste."
+    },
+    {
+      "id": 11,
+      "title": "Lo que se acumula se oxida",
+      "content": "Si no se comparte, se pudre. Que circule. Que se use."
+    },
+    {
+      "id": 12,
+      "title": "Quitar piedras, no poner nombres",
+      "content": "No buscamos dejar firma. Buscamos que el que venga después no tropiece con lo mismo."
+    },
+    {
+      "id": 13,
+      "title": "Esfuerzo compartido",
+      "content": "Pong
